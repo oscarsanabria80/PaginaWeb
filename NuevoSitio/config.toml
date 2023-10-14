@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Óscar Sanabria"
+theme = "ananke"
+
+[[menu.main]]
+name ="información"
+url ="/primera"
+weight = 3
+
+[[menu.main]]
+name ="Contacto"
+url ="/contacto"
+weight = 3
+
+[[menu.main]]
+name ="Asignaturas"
+url ="/asir"
+weight = 3
